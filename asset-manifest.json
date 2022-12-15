@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CYSC-HUB/static/css/main.b967cd0d.css",
-    "main.js": "/CYSC-HUB/static/js/main.0125fa9e.js",
+    "main.js": "/CYSC-HUB/static/js/main.85590892.js",
     "static/js/787.b7a46cac.chunk.js": "/CYSC-HUB/static/js/787.b7a46cac.chunk.js",
     "static/media/logo.svg": "/CYSC-HUB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CYSC-HUB/index.html",
     "main.b967cd0d.css.map": "/CYSC-HUB/static/css/main.b967cd0d.css.map",
-    "main.0125fa9e.js.map": "/CYSC-HUB/static/js/main.0125fa9e.js.map",
+    "main.85590892.js.map": "/CYSC-HUB/static/js/main.85590892.js.map",
     "787.b7a46cac.chunk.js.map": "/CYSC-HUB/static/js/787.b7a46cac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b967cd0d.css",
-    "static/js/main.0125fa9e.js"
+    "static/js/main.85590892.js"
   ]
 }
