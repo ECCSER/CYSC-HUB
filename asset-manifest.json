@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/CYSC-HUB/static/css/main.b967cd0d.css",
-    "main.js": "/CYSC-HUB/static/js/main.85590892.js",
+    "main.css": "/CYSC-HUB/static/css/main.f2ae8b10.css",
+    "main.js": "/CYSC-HUB/static/js/main.8d36dd20.js",
     "static/js/787.b7a46cac.chunk.js": "/CYSC-HUB/static/js/787.b7a46cac.chunk.js",
-    "static/media/logo.svg": "/CYSC-HUB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ser_staff.png": "/CYSC-HUB/static/media/ser_staff.8721d0aa4723482ba27d.png",
+    "static/media/wallpaper3.png": "/CYSC-HUB/static/media/wallpaper3.a23c839ea351399e5187.png",
+    "static/media/wallpaper4.png": "/CYSC-HUB/static/media/wallpaper4.aaf8b8fe8095c39bfa4b.png",
+    "static/media/serlogo.svg": "/CYSC-HUB/static/media/serlogo.0eb24d0f3b6d4e420fd483996ec9e846.svg",
     "index.html": "/CYSC-HUB/index.html",
-    "main.b967cd0d.css.map": "/CYSC-HUB/static/css/main.b967cd0d.css.map",
-    "main.85590892.js.map": "/CYSC-HUB/static/js/main.85590892.js.map",
+    "main.f2ae8b10.css.map": "/CYSC-HUB/static/css/main.f2ae8b10.css.map",
+    "main.8d36dd20.js.map": "/CYSC-HUB/static/js/main.8d36dd20.js.map",
     "787.b7a46cac.chunk.js.map": "/CYSC-HUB/static/js/787.b7a46cac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b967cd0d.css",
-    "static/js/main.85590892.js"
+    "static/css/main.f2ae8b10.css",
+    "static/js/main.8d36dd20.js"
   ]
 }
